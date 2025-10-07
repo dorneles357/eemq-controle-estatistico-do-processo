@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Rproj.user
+data/*.csv
+.vscode/
+
+exemplo EWMA e CUSUM e CGR.xlsx
+exemplos critérios.xlsx
+exemplos GCA.xlsx
+exemplos GCV e GCMI.xlsx
